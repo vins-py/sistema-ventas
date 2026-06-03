@@ -1,0 +1,17 @@
+----- TICKET DE VENTA -----
+-------------------------
+Producto: llantas
+Precio: $120.00
+Cantidad: 3
+Subtotal: $360.00
+IVA: $57.60
+Total: $417.60
+-------------------------
+Producto: jabon
+Precio: $12.00
+Cantidad: 2
+Subtotal: $24.00
+IVA: $3.84
+Total: $27.84
+-------------------------
+TOTAL A PAGAR: $445.44

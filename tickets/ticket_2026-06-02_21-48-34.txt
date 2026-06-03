@@ -1,0 +1,17 @@
+----- TICKET DE VENTA -----
+-------------------------
+Producto: llantas
+Precio: $120.00
+Cantidad: 3
+Subtotal: $360.00
+IVA: $57.60
+Total: $417.60
+-------------------------
+Producto: mueble
+Precio: $35.00
+Cantidad: 4
+Subtotal: $140.00
+IVA: $22.40
+Total: $162.40
+-------------------------
+TOTAL A PAGAR: $580.00

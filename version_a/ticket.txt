@@ -1,0 +1,17 @@
+----- TICKET DE VENTA -----
+-------------------------
+Producto: llanta
+Precio: $240.00
+Cantidad: 2
+Subtotal: $480.00
+IVA: $76.80
+Total: $556.80
+-------------------------
+Producto: molde
+Precio: $100.00
+Cantidad: 3
+Subtotal: $300.00
+IVA: $48.00
+Total: $348.00
+-------------------------
+TOTAL A PAGAR: $904.80

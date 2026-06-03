@@ -1,0 +1,10 @@
+----- TICKET DE VENTA -----
+-------------------------
+Producto: molde
+Precio: $32.00
+Cantidad: 2
+Subtotal: $64.00
+IVA: $10.24
+Total: $74.24
+-------------------------
+TOTAL A PAGAR: $74.24

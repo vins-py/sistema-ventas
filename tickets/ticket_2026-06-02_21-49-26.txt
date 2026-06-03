@@ -1,0 +1,10 @@
+----- TICKET DE VENTA -----
+-------------------------
+Producto: mueble
+Precio: $35.00
+Cantidad: 5
+Subtotal: $175.00
+IVA: $28.00
+Total: $203.00
+-------------------------
+TOTAL A PAGAR: $203.00

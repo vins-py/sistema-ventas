@@ -1,0 +1,17 @@
+----- TICKET DE VENTA -----
+-------------------------
+Producto: llantas
+Precio: $120.00
+Cantidad: 3
+Subtotal: $360.00
+IVA: $57.60
+Total: $417.60
+-------------------------
+Producto: moldes
+Precio: $43.00
+Cantidad: 2
+Subtotal: $86.00
+IVA: $13.76
+Total: $99.76
+-------------------------
+TOTAL A PAGAR: $517.36

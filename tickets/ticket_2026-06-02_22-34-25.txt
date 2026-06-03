@@ -1,0 +1,17 @@
+----- TICKET DE VENTA -----
+-------------------------
+Producto: molde
+Precio: $34.00
+Cantidad: 4
+Subtotal: $136.00
+IVA: $21.76
+Total: $157.76
+-------------------------
+Producto: mueble
+Precio: $12.00
+Cantidad: 3
+Subtotal: $36.00
+IVA: $5.76
+Total: $41.76
+-------------------------
+TOTAL A PAGAR: $199.52
