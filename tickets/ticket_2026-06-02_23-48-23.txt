@@ -1,0 +1,10 @@
+----- TICKET DE VENTA -----
+-------------------------
+Producto: manual
+Precio: $12.00
+Cantidad: 2
+Subtotal: $24.00
+IVA: $3.84
+Total: $27.84
+-------------------------
+TOTAL A PAGAR: $27.84

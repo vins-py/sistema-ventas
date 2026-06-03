@@ -9,14 +9,32 @@ def calcular_total(precio, cantidad):
     total = subtotal + iva
     return subtotal, iva, total
 
+def pedir_precio():
+    while True:
+        try:
+            precio = float(input("Precio del producto: "))
+            return precio
+        except ValueError:
+            print("Error: escribe un número válido para el precio.")
+
+
+def pedir_cantidad():
+    while True:
+        try:
+            cantidad = int(input("Cantidad vendida: "))
+            return cantidad
+        except ValueError:
+            print("Error: escribe un número entero para la cantidad.")
+
 
 productos = []
 total_general = 0
 
 while True:
     nombre = input("Nombre del producto: ")
-    precio = float(input("Precio del producto: "))
-    cantidad = int(input("Cantidad vendida: "))
+    precio = pedir_precio()
+    cantidad = pedir_cantidad()
+
 
     subtotal, iva, total = calcular_total(precio, cantidad)
 
